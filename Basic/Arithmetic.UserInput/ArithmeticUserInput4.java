@@ -17,7 +17,7 @@ public class ArithmeticUserInput4 {
         float e = sc.nextFloat();
         System.out.println("enter the value of f");
         float f = sc.nextFloat();
-        float g = a * ( b - c ) / d + e - f;
+        float g = a * b - ( c / d ) - e + f;
         System.out.println("the value of g is " + g);
     }
 }
