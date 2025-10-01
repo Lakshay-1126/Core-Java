@@ -1,0 +1,26 @@
+what is JAVA?
+->java is programming language 
+->it work on CORA (WORA) 
+
+C :create and W(write)
+o :one 
+r :run 
+a :anywhere 
+
+->java is a platform independent 
+
+->java is object oriented programming language 
+
+ Java is a high level, robust, object-oriented and secure programming language.
+
+high level : easy to understand and simple 
+
+robust programming language :it means strong memory management 
+
+object oritended :set of class and object 
+
+class :set of object eg :animal ,stationary 
+
+
+object : real word entity :it have particular state and behavior 
+eg :dog 
